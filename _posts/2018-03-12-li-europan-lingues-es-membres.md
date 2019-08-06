@@ -15,7 +15,6 @@ introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e
 
 
 جو عمر باقی ہے اس کا خیال کچھ بھی نہیں
-
 گزر چکی ہے جو اس پر ملال کچھ بھی نہیں
 
 ہمیں تو خلق سے اب قیل و قال کچھ بھی نہیں
@@ -59,7 +58,7 @@ introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e
 نہ ہو زوال تو بے شک کمال کچھ بھی نہیں
 
 محمد ریحان قریشی
-</a>
+
 
 
 
