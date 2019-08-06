@@ -12,15 +12,13 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
-
-
-جو عمر باقی ہے اس کا خیال کچھ بھی نہیں
+/جو عمر باقی ہے اس کا خیال کچھ بھی نہیں
 گزر چکی ہے جو اس پر ملال کچھ بھی نہیں
 
-ہمیں تو خلق سے اب قیل و قال کچھ بھی نہیں
+/ہمیں تو خلق سے اب قیل و قال کچھ بھی نہیں
 کہاں کا شکوہ کہ جب عرضِ حال کچھ بھی نہیں
 
-جواب ہی تو ہیں سب کچھ سوال کچھ بھی نہیں
+/جواب ہی تو ہیں سب کچھ سوال کچھ بھی نہیں
 بس اعتقاد میں جاں کا وبال کچھ بھی نہیں
 
 حیات کا تو ہے موجب بھی ماحصل بھی حیات
