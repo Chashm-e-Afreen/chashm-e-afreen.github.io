@@ -10,6 +10,7 @@ image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v15048072
 category: 'نظم'
  
 ---
+<p style="text-align: center;">
 <span style="font-family: nastaliq;">گو کہ معصوم تھا بے جرم تھا میں میں</span>  
 <span style="font-family: nastaliq;">مل گئی ہے جو سزا اب کے مجھے</span>  
 <span style="font-family: nastaliq;">فصل تو کاشتہ ہرگز نہ تھی میری لیکن، گل درو میں ہی ہوں ٹھہر ا اس کا</span>  
@@ -20,3 +21,4 @@ category: 'نظم'
 <span style="font-family: nastaliq;">مجھ کو کوئی بھی نہیں چھو سکتا</span>  
 <span style="font-family: nastaliq;">سینۂ شب میں چھپے گھات میں بیٹھے ہوئے دستور شکن</span>  
 <span style="font-family: nastaliq;">تیرے ادراک میں آئے نہیں اب تک شاید</span>
+</p>
