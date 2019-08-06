@@ -6,7 +6,7 @@ author: Xarf
 layout: post
 guid: https://chashm-e-afreen.000webhostapp.com/?p=32
 permalink: /2018/08/a-blank-verse-translation-of-serial-experiment-lains-ending-theme-toi-sakebi
-image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501268554/sunrise_ttb9nk.jpg'
+image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 categories:
   - Manzoomat
   - Urdu Poetry
