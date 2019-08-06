@@ -1,13 +1,13 @@
 # Site Settings
 title: Chashm e Afreen
 email: example@xyz.com
-description: It is not often that I find myself with the will or the need to write. Such occasions however, are not effected by ethereal deliberations. It is, in fact, not really possible for me to isolate thinking from writing. This engenders a weird concoction of words that contemplate something but don't quite say anything.
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://laser23.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: Molten Glass
 user_description: Some text about you.
 disqus_username: disqus_username
 
