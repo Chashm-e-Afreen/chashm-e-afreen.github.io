@@ -1,13 +1,13 @@
 ---
 id: 32
-title: '<p style="font-family: qwigley; font-weight: normal ">Toi Sakebi from Lain(Translated)</p>'
+title: 'Toi Sakebi from Lain (Translation)'
 date: 2018-08-30T09:42:42+00:00
 author: Xarf
 layout: post
 guid: https://chashm-e-afreen.000webhostapp.com/?p=32
 permalink: /2018/08/a-blank-verse-translation-of-serial-experiment-lains-ending-theme-toi-sakebi
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
-category: 'نظم'
+category: 'ترجمہ منظوم'
  
 ---
 <p style="text-align: center;">
