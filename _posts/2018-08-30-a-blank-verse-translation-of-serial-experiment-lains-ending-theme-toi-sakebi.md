@@ -10,7 +10,7 @@ image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v15048072
 category: 'منظوم ترجمہ'
  
 ---
-<p style="text-align: center;">
+ 
 <span style="font-family: Mehr;">گو کہ معصوم تھا بے جرم تھا میں میں  </span>
 <span style="font-family: Mehr;">مل گئی ہے جو سزا اب کے مجھے  </span>  
 <span style="font-family: Mehr;">فصل تو کاشتہ ہرگز نہ تھی میری لیکن، گل درو میں ہی ہوں ٹھہر ا اس کا  </span>  
@@ -21,4 +21,4 @@ category: 'منظوم ترجمہ'
 <span style="font-family: Mehr;">مجھ کو کوئی بھی نہیں چھو سکتا  </span>  
 <span style="font-family: Mehr;">سینۂ شب میں چھپے گھات میں بیٹھے ہوئے دستور شکن  </span>  
 <span style="font-family: Mehr;">تیرے ادراک میں آئے نہیں اب تک شاید  </span>
-</p>
+ 
