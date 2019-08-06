@@ -8,8 +8,7 @@ guid: https://chashm-e-afreen.000webhostapp.com/?p=32
 permalink: /2018/08/a-blank-verse-translation-of-serial-experiment-lains-ending-theme-toi-sakebi
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 category: 'نظم'
-tags:
-  - Muhammad Rehan Qureshi
+ 
 ---
 <span style="font-family: nastaliq;">گو کہ معصوم تھا بے جرم تھا میں میں</span>  
 <span style="font-family: nastaliq;">مل گئی ہے جو سزا اب کے مجھے</span>  
