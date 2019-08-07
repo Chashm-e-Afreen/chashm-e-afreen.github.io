@@ -9,9 +9,4 @@ permalink: /about/
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It is not often that I find myself with the will or the need to write. Such occasions however, are not effected by ethereal deliberations. It is, in fact, not really possible for me to isolate thinking from writing. This engenders a weird concoction of words that contemplate something but don't quite say anything.
