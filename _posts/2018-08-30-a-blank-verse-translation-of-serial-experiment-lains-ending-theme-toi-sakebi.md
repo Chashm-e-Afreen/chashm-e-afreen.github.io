@@ -6,7 +6,7 @@ author: Xarf
 layout: post
 guid: https://chashm-e-afreen.000webhostapp.com/?p=32
 permalink: /2018/08/a-blank-verse-translation-of-serial-experiment-lains-ending-theme-toi-sakebi
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
+image: 'https://www.tokkoro.com/picsup/2831239-computer-serial-experiments-lain___anime-wallpapers.jpg'
 category: 'منظوم ترجمہ'
 
 ---
