@@ -12,6 +12,7 @@ category: 'منظوم ترجمہ'
 ---
 
 <span style="font-family: Mehr;">گو کہ معصوم تھا بے جرم تھا میں میں  </span>
+<br/>
 <span style="font-family: Mehr;">مل گئی ہے جو سزا اب کے مجھے  </span>  
 <span style="font-family: Mehr;">فصل تو کاشتہ ہرگز نہ تھی میری لیکن، گل درو میں ہی ہوں ٹھہر ا اس کا  </span>  
 <span style="font-family: Mehr;">ہاں میں انجان نہ تھا اس سے مگر  </span>  
