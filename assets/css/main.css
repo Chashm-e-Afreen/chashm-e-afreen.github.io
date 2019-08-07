@@ -954,7 +954,21 @@ main {
 	border-color: #fff
 }
 
-.box-item .box-body .box-item .box-body .cover {
+.box-item .box-body .new-post:after {
+	content: 'New post';
+	text-transform: uppercase;
+	display: inline-block;
+	background: #ff0a16;
+	color: #fff;
+	font-size: .813rem;
+	font-weight: 700;
+	line-height: 1.5rem;
+	padding: 0 .5rem;
+	position: absolute;
+	margin-top: -2.187rem
+}
+
+.box-item .box-body .cover {
 	position: relative;
 }
 
@@ -973,7 +987,7 @@ main {
 	height: 5rem;
 	border-radius: 40px;
 	position: absolute;
-	top: 35%;
+	top: 50%;
 	left: 50%;
 	margin-top: -2.5rem;
 	margin-left: -2.5rem;
