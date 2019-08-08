@@ -7,6 +7,11 @@ layout: compress
 {% include head.html %}
 
 <body class="has-push-menu">
+    <!-- For connecting with facebook api -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0"></script>
+
     {% include svg-icons.html %}
     {% include header.html %}
     <section class="content">
@@ -15,9 +20,6 @@ layout: compress
     {% include footer.html %}
 </body>
 
-<!-- For connecting with facebook api -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous"
-    src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0"></script>
+
 
 </html>
