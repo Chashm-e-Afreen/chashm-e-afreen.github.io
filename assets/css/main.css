@@ -2098,5 +2098,6 @@ footer ul a:hover {
 
 img.preload {
 	width: 100%;
-	object-fit: scale-down;
+	object-fit: contain;
+	height: 174px;
 }
