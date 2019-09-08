@@ -5,6 +5,7 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chashm-e-afreen.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
+themeColor: "#880e4f"
 
 # User Settings
 username: Molten Glass
