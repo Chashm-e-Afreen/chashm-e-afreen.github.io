@@ -2098,6 +2098,6 @@ footer ul a:hover {
 
 img.preload {
 	
-	object-fit: contain;
+	object-fit: cover;
 	
 }
