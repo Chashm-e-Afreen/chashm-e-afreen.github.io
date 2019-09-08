@@ -2095,9 +2095,13 @@ footer ul a:hover {
 .main-page footer p {
 	color: #fff
 }
-
+div.cover{
+	position: relative;
+	width:100%;
+	padding-bottom: 100%;
+}
 img.preload {
-	
+	position: absolute;
 	width: 100%;
 	height: 52.65%;
 	
