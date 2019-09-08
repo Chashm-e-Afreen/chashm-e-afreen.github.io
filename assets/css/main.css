@@ -2098,11 +2098,11 @@ footer ul a:hover {
 div.cover{
 	position: relative;
 	width:100%;
-	padding-bottom: 60%;
+	padding-bottom: 56.25%;
 }
 img.preload {
 	position: absolute;
 	width: 100%;
-	height: 52.65%;
+	height: 100%;
 	
 }
