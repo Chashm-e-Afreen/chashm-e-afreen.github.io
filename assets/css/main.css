@@ -2097,8 +2097,8 @@ footer ul a:hover {
 }
 
 .cover{
-	position: relative;
-	width: 100%;
+	height: auto;
+	width: auto;
 	
 }
 img.preload {
