@@ -2099,6 +2099,6 @@ footer ul a:hover {
 img.preload {
 	width: 100%;
 	height: auto;
-	min-height: 150;
-	max-height: 157.9;
+	min-height: 150px;
+	max-height: 157.9px;
 }
