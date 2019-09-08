@@ -2097,8 +2097,8 @@ footer ul a:hover {
 }
 
 img.preload {
-	width: 100vw;
-	height: 52.625vw;
+	width: 100%;
+	height: 52.625vw auto;
 	
 	
 }
