@@ -2100,3 +2100,7 @@ img.preload {
 	width: 280.667px;
 	height: 147.35px
 }
+
+h1.site-title {
+    font-family: 'Titillium Web', 'Helvetica Neue', 'Mehr', sans-serif;
+}
