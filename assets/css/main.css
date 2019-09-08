@@ -2098,5 +2098,5 @@ footer ul a:hover {
 
 img.preload {
 	width: 100%;
-	height: calc (100vw * 0.52);
+	padding-bottom: 56.25%;
 }
